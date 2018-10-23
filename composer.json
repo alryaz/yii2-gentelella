@@ -1,14 +1,14 @@
 {
-  "name": "mihailshumilov/yii2-gentelella",
-  "description": "Free admin template for backend",
+  "name": "sajphon/yii2-gentelella",
+  "description": "Updated version of gentelella - free admin template based on bootstrap 3",
   "type": "yii2-extension",
   "keywords": ["yii2","extension","backend","bootsprap3","admin","gentelella","theme","asset"],
   "license": "MIT",
   "authors": [
     {
-      "name": "Mihail Shumilov",
-      "email": "mschumilow@gmail.com",
-      "homepage": "https://github.com/mihailShumilov",
+      "name": "Mario Chamuty",
+      "email": "chamuty@versiontwo.sk",
+      "homepage": "https://versiontwo.sk",
       "role": "Fork"
     }
   ],
